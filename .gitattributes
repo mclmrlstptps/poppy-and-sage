@@ -1,0 +1,10 @@
+# Set default behavior to automatically normalize line endings 
+* text=auto 
+
+# Explicitly declare text files you want to always be normalized 
+*.html text 
+*.css text
+*.js text 
+*.mjs text 
+*.json text 
+*.svg text 
